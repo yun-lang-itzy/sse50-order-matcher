@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.runtime/
+.venv/
+.DS_Store
+*.parquet
+.env
+.env.*
+dist/
+*.log

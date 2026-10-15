@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 80,
+      "sha256": "62b4519fe68e006746e1ed237ee5d553ff921eb27aad01a266f2edc1a38b0137"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8965,
+      "sha256": "603c9345f57e2b14deaf17be94640ac7f760091e5006c85ae2f65752974f8fe4"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 1070,
+      "sha256": "c40d58e669305f2969f62e74629c3a9a2ea33463372a67723a1a3db5877b7407"
+    },
+    {
+      "path": "docs/preview.jpg",
+      "bytes": 132216,
+      "sha256": "2ea3db6643189416a6aa34e39bdcc0108d757a5daa727483683d899cf4605b1a"
+    },
+    {
+      "path": "docs/replay-audit.json",
+      "bytes": 19309,
+      "sha256": "64a5b29c97f79dd51ffde0f0348d48fc122892675f8d59be10e01026c9e38a3b"
+    },
+    {
+      "path": "docs/sse-deferred-2026.docx",
+      "bytes": 16476,
+      "sha256": "f4a0d0976a01e3e95f82460170900993824b70d91183e42d09e13ba10a9958c5"
+    },
+    {
+      "path": "docs/sse-deferred-2026.txt",
+      "bytes": 2525,
+      "sha256": "12a52db69d6393d4b94f6697dd572de90e9de2bea9ae220fe2ddf2543d12fb15"
+    },
+    {
+      "path": "docs/sse-rules-2026.docx",
+      "bytes": 65302,
+      "sha256": "fc922c433438b2636cb631eab25cca405209712acbb6aaded768c45456ff8888"
+    },
+    {
+      "path": "docs/sse-rules-2026.txt",
+      "bytes": 55103,
+      "sha256": "6612f05f0dc3fad7d6520b0e7c7636852fcb29d87e8fdfa740871a001ff046cc"
+    },
+    {
+      "path": "docs/test-results.txt",
+      "bytes": 3160,
+      "sha256": "c3decedfec4395dfefd758eab06cae3bc6659325f44b69a03da86dd562692b3a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 12,
+      "sha256": "5891ccb0fea3bf05e82a7eab44e0422e1192e583d9c6dbb2beb3b71d7156a3e7"
+    },
+    {
+      "path": "server.py",
+      "bytes": 9068,
+      "sha256": "dc5c74c9e385c6852bd58981dcb8fc3d7c0189a128195283f8efd6935030b2f0"
+    },
+    {
+      "path": "sse_sim/__init__.py",
+      "bytes": 55,
+      "sha256": "1bddd15909844f2682ec2df342fe1ae197d621c3a6e28b5879c8f0441f8964f7"
+    },
+    {
+      "path": "sse_sim/book.py",
+      "bytes": 2602,
+      "sha256": "17ee61a2125668dba8da685177b4eef6bf1c7c4860b6b25014e050581078c510"
+    },
+    {
+      "path": "sse_sim/data.py",
+      "bytes": 2369,
+      "sha256": "ecd69ec17f2f8b97bf2f6b5af2ec3b6e049c9659835210a3785a764f44e4e679"
+    },
+    {
+      "path": "sse_sim/engine.py",
+      "bytes": 12860,
+      "sha256": "327f6e00f00dbc7cd29067e2a3c182aa1ebe2e5f2b07c0e25d4f4c6d943bda23"
+    },
+    {
+      "path": "sse_sim/rules.py",
+      "bytes": 4824,
+      "sha256": "88e83a2a9c6bfcc7e4ba0fa1348d1257847f0ec0f9b7bb360f05f44d6ad4131f"
+    },
+    {
+      "path": "start.command",
+      "bytes": 301,
+      "sha256": "91efa5ec490da538d02a6a217b2cb981ea11b383a0cc8fbb1a716e78b4a32e27"
+    },
+    {
+      "path": "static/app.js",
+      "bytes": 13823,
+      "sha256": "027de9c5228bf571c3dda499226da9aa8b65e5c59609c82d3c9d0da5bf4cf69d"
+    },
+    {
+      "path": "static/index.html",
+      "bytes": 6663,
+      "sha256": "1ec0c6c8788733ccdc1bd5ce309eefc7af5a38d1db2a578b4ca040a30fdc4c75"
+    },
+    {
+      "path": "static/style.css",
+      "bytes": 10417,
+      "sha256": "74abbd444fb5b7ed59f075950938984f44a0930282723d36def2d8e9a57aa808"
+    },
+    {
+      "path": "tests/audit_data.py",
+      "bytes": 873,
+      "sha256": "4b8447a4f3ac5a287e27afcf8db6676528e98b1215f785769ce512bc8dc8a481"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "bytes": 8491,
+      "sha256": "7000fae747effd74f2bfec7adc12aec5777f274bf433f294e23f47c3fa9efff0"
+    },
+    {
+      "path": "tests/test_integration.py",
+      "bytes": 2471,
+      "sha256": "af7a3f77b791e2cf9124d96f96ea7a1a72d84bfdfd6163c9e70a995714b72138"
+    }
+  ]
+}
